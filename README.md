@@ -55,15 +55,6 @@ To get the most out of this repository, follow this learning path:
 
 5. **📦 Advanced Services**: Move on to **ECS**, **EKS**, **CloudWatch**, **SQS/SNS**, **Load Balancer**, and **Auto Scaling Group** for container orchestration, monitoring, and scaling.
 
-This path is designed to build your knowledge step by step, ensuring a deep understanding of AWS services.
-
-## 🤝 How to Contribute
-We welcome contributions from everyone! Here's how you can help:
-
-1. **🍴 Fork the Repo**: Start by forking the repository and cloning it locally.
-2. **🌿 Create a Branch**: Make a new branch for your contributions.
-3. **🛠️ Make Changes**: Add tutorials, fix issues, or enhance existing content.
-4. **📬 Submit a Pull Request**: Submit your changes with a clear description, and we'll review them!
 
 ## 📚 Useful Resources and References
 Boost your learning with these additional resources:
@@ -71,15 +62,4 @@ Boost your learning with these additional resources:
 - **📖 [AWS Official Documentation](https://aws.amazon.com/documentation/)**: In-depth guides straight from AWS.
 - **🎓 [AWS Skill Builder](https://skillbuilder.aws/)**: Free training resources and certification prep.
 
-## 🌐 Connect with Me!
-Stay connected for more insights and opportunities:
 
-- **🔗 [LinkedIn](https://www.linkedin.com/in/nasiullha-chaudhari/)**: Connect with me on LinkedIn for networking and professional updates.
-- **📢 [Cloud Champ](https://www.youtube.com/@cloudchamp?sub_confirmation=1)**: Subscribe to Cloud Champ on YouTube for tutorials, tips, and cloud news! 🎥
-
-## 📄 Course Outline
-A detailed course outline is available in PDF format:
-
-- 📂 [AWS Cloud From Scratch - Course Outline](https://app.napkin.ai/page/CgoiCHByb2Qtb25lEiwKBFBhZ2UaJGI4N2Y2NDk3LThkMGEtNGNmYS04NjQ1LTQ1MGJkOGM4MzBmMQ?s=1)
-
----
