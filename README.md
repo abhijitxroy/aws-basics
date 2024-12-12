@@ -1,7 +1,3 @@
-# Learn_AWS_from_Scratch
-
-### ![AWS Course](AWS_Course.png)
-
 
 ### [**Watch the Complete Playlist**](https://youtube.com/playlist?list=PLOa-edppsqFn4MFr5KDqm0Y92d2nGyGgQ&si=srktTEibogJ-QDub)
 
